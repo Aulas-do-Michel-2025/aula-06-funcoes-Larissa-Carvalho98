@@ -22,3 +22,6 @@ def filtrar_lista_por_numeros_primos(lista):
     lista_filtrada = []
     # Completar funcao aqui!
     return lista_filtrada
+
+
+print(filtrar_lista_por_numeros_primos([2, 3, 4, 5, 6, 7, 8, 9, 10]))
