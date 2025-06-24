@@ -24,4 +24,5 @@ def filtrar_lista_por_numeros_primos(lista):
     return lista_filtrada
 
 
-print(filtrar_lista_por_numeros_primos([2, 3, 4, 5, 6, 7, 8, 9, 10]))
+print(filtrar_lista_por_numeros_primos([10, 11, 50, 13, 99, 7]))
+
