@@ -9,3 +9,12 @@ Exemplo de uso:
 >>> 100
 """
 
+def calcular_media(lista):
+    if not lista: 
+        return 0
+    return sum(lista) / len(lista)
+
+
+print(calcular_media([0, 100, 200]))  
+           
+
