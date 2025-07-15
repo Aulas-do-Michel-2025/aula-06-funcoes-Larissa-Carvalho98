@@ -15,6 +15,6 @@ def calcular_media(lista):
     return sum(lista) / len(lista)
 
 
-print(calcular_media([0, 100, 200]))  
+
            
 
