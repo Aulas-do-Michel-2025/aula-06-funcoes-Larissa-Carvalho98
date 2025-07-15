@@ -16,4 +16,4 @@ def criar_organismo(id,nome,tamanho_do_genoma):
         "tamanho_do_genoma": tamanho_do_genoma
     }
 
-print(criar_organismo(10, "HIV", 1000))
+
